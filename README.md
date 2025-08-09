@@ -63,3 +63,7 @@ JSON – Data format for request and response in the API.
 
 output:
 
+<img width="1279" height="861" alt="Image" src="https://github.com/user-attachments/assets/4166d798-2cd8-4552-9a45-d5a817be2591" />
+<img width="1274" height="901" alt="Image" src="https://github.com/user-attachments/assets/5d303d7d-e77a-4905-9cef-7da9934db22c" />
+<img width="1278" height="1010" alt="Image" src="https://github.com/user-attachments/assets/8cd699d8-977f-4382-81b8-c0ce3f12a49d" />
+<img width="1272" height="1006" alt="Image" src="https://github.com/user-attachments/assets/3736fe02-cb08-41fd-9c50-3335440b5ebd" />
