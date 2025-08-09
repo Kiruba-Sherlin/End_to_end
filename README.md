@@ -61,3 +61,5 @@ Overall, this project encapsulates the essential steps in creating a deployable 
 
 JSON – Data format for request and response in the API.
 
+output:
+
